@@ -66,8 +66,8 @@
   background: rgb(34, 34, 34);
 }
 
-@media screen and (max-width: 768) {
+@media screen and (max-width: 768px) {
   .calc-body {
-    width: 70%;
+    width: 75%;
   }
 }
