@@ -65,3 +65,9 @@
 #equals:hover {
   background: rgb(34, 34, 34);
 }
+
+@media screen and (max-width: 768) {
+  .calc-body {
+    width: 60%;
+  }
+}
