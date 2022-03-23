@@ -103,13 +103,17 @@ p {
 }
 
 @media screen and (max-width: 768px) {
+  .container {
+    padding-top: 3rem;
+  }
+
   .calc-body {
     width: 90%;
     transition: 1s all ease-in-out;
   }
 
   h1 {
-    transform: scale(0.75);
+    transform: scale(0.7);
     transition: 0.2s all ease-in-out;
   }
 }
