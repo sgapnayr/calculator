@@ -17,7 +17,8 @@
   background: rgb(255, 255, 255);
   box-shadow: 1px 1px 15px rgba(109, 109, 109, 0.567);
   display: block;
-  border-radius: 20px;
+  border-radius: 30px;
+  border: 10px solid rgb(182, 182, 182);
 }
 
 .calc-space {
