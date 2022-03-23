@@ -94,7 +94,7 @@ p {
 
 @media screen and (max-width: 768px) {
   .calc-body {
-    width: 85%;
+    width: 90%;
     transition: 1s all ease-in-out;
   }
 
